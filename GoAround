@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Go Arounnd Privacy Policy</title>
+<meta name="description" content="Privacy policy for Go Around, an Android app by Sandpepper.">
+<style>
+  :root{--bg:#f4f1eb;--fg:#1a1a1a;--muted:#5c5c5c;--line:#d9d4c9;--accent:#b34700;}
+  @media (prefers-color-scheme:dark){:root{--bg:#0f0f0f;--fg:#ececec;--muted:#a0a0a0;--line:#2b2b2b;--accent:#ff8a3d;}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;}
+  main{max-width:720px;margin:0 auto;padding:48px 16px 64px;}
+  h1{font-size:2rem;line-height:1.2;margin:0 0 4px;letter-spacing:-.01em;}
+  .meta{color:var(--muted);margin:0 0 32px;font-size:.95rem;}
+  .summary{border:1px solid var(--line);border-left:4px solid var(--accent);padding:14px 18px;margin:0 0 36px;border-radius:4px;}
+  .summary p{margin:0;}
+  h2{font-size:1.15rem;margin:32px 0 8px;}
+  p,li{margin:0 0 12px;}
+  ul{padding-left:22px;margin:0 0 12px;}
+  a{color:var(--accent);}
+  footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem;}
+</style>
+</head>
+<body>
+<main>
+  <h1>Go Around Privacy Policy</h1>
+  <p class="meta">Developer: Sandpepper · Effective date: 9 November 2026</p>
+
+  <div class="summary">
+    <p><strong>In short:</strong> Go Around does not collect, store, share or sell any personal data. It has no ads, no accounts, no analytics and no internet access.</p>
+  </div>
+
+  <h2>1. Who we are</h2>
+  <p>Go Around is an Android app made by Sandpepper, an independent studio. This policy explains how Go Around handles information when you use it.</p>
+
+  <h2>2. Information we collect</h2>
+  <p>None. Go Around does not collect any personal or device information. In particular, the app does not:</p>
+  <ul>
+    <li>ask you to create an account or sign in;</li>
+    <li>contain advertising or advertising identifiers;</li>
+    <li>include analytics, tracking or crash-reporting tools;</li>
+    <li>request the internet permission, so it cannot send anything off your device;</li>
+    <li>access your contacts, location, photos, microphone or camera images.</li>
+  </ul>
+
+  <h2>3. What stays on your device</h2>
+  <p>The messages you type exist only on your screen while you use the app and are never transmitted anywhere. If you use the copy function, text is placed on your device's clipboard, which is controlled by Android, not by us.</p>
+  <p>The torch tool switches your phone's camera flash on and off as a light. It does not use the camera to take pictures or video, and it does not require the camera permission.</p>
+
+  <h2>4. Google Play</h2>
+  <p>Go Around is distributed through Google Play. When you download or update the app, Google may process information under its own <a href="https://policies.google.com/privacy" rel="noopener">Privacy Policy</a>. If you have opted in to share usage and diagnostics with Google, we may see anonymous, aggregated statistics (such as install counts or crash rates) in the Google Play Console. These do not identify you.</p>
+
+  <h2>5. Sharing and selling</h2>
+  <p>Because we collect no data, we have nothing to share with or sell to anyone.</p>
+
+  <h2>6. Children</h2>
+  <p>Go Around does not knowingly collect personal information from anyone, including children.</p>
+
+  <h2>7. Your rights</h2>
+  <p>Under data protection laws such as the GDPR, you may have rights to access, correct and delete your personal data. As Go Around holds no personal data about you, there is nothing for us to access or delete. You are welcome to contact us with any questions.</p>
+
+  <h2>8. Changes to this policy</h2>
+  <p>If Go Around ever changes how it handles information, we will update this page and its effective date before the change takes effect.</p>
+
+  <h2>9. Contact</h2>
+  <p>Questions about this policy or about Go Around: <a href="mailto:sandpepperstudio@gmail.com">sandpepperstudio@gmail.com</a></p>
+
+  <footer>© 2026 Sandpepper</footer>
+</main>
+</body>
+</html>
